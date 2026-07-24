@@ -1,3 +1,5 @@
 # Place Value Power Plant — Student Site
 
-Self-paced student escape room (GitHub Pages). Teacher materials are not included in this repo.
+Self-paced digital escape room for students. Hosted on GitHub Pages.
+
+Teacher guides, answer keys, and printable PDFs are **not** included here.
